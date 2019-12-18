@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimulatedDevice": {
+      "commandName": "Project",
+      "commandLineArgs": "2 http://suncast-api.azurewebsites.net/api/"
+    }
+  }
+}
